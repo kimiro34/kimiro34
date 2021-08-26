@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kimiro34
+- 👀 I’m interested in developing blockchain and web.
+- 🌱 I’m currently learning python and machine learning.
+- 💞️ I’m looking to collaborate on data mining.
+- 📫 Please reach me via skype(live:.cid.9418ebcd7be86f28).
