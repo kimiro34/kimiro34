@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @kimiro34
-- 👀 I’m interested in developing blockchain and web.
-- 🌱 I’m currently learning python and machine learning.
-- 💞️ I’m looking to collaborate on data mining.
-- 📫 Please reach me via skype(live:.cid.9418ebcd7be86f28).
+- 👀 Domains - Blockchain | Go | NodeJS | Python | Rust | Elixir
+- 📫 Email(kimirosato.dev@gmail.com), Skype(live:.cid.9418ebcd7be86f28), Telegram(kimirosato)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
  <a href="https://github.com/GruDev325/GruDev325/"> </a>
