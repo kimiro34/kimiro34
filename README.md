@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kimiro34
 - 👀 Domains - Blockchain | Go | NodeJS | Python | Rust | Elixir
-- 📫 Email(kimirosato.dev@gmail.com), Skype(live:.cid.9418ebcd7be86f28), Telegram(oasismilady)
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Software Engineer</h1>
  <a href="https://github.com/GruDev325/GruDev325/"> </a>
